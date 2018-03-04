@@ -25,7 +25,7 @@ Please use use [cargo watch](https://github.com/passcod/cargo-watch) for more op
 
 ## Installation
 
-Run:
+From the root of the repository, run:
 
 ```bash
 cargo install
@@ -33,10 +33,10 @@ cargo install
 
 ## Usage
 
-Run:
+In your Cargo project directory, run:
 
 ```bash
-rocket-launch <path-to-cargo-project>
+rocket-launch
 ```
 
 See `rocket-launch --help` for more options.
