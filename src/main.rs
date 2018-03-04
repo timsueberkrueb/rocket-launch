@@ -153,7 +153,8 @@ fn main() {
         Err(_) => false
     };
     if !is_existing_dir {
-        panic!("\"{}\" is not a valid directory", &project_path);
+        eprintln!("\"{}\" is not a valid directory", &project_path);
+        exit(1);
     }
 
     match static_fire(&project_path) {
