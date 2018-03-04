@@ -1,4 +1,4 @@
-# Rocket Launch
+<h1><img src="https://raw.githubusercontent.com/tim-sueberkrueb/rocket-launch/develop/icon.png" width="48"> Rocket Launch</h1>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/tim-sueberkrueb/rocket-launch.svg)](https://github.com/tim-sueberkrueb/rocket-launch/releases)
@@ -40,6 +40,10 @@ rocket-launch
 ```
 
 See `rocket-launch --help` for more options.
+
+## Credits
+
+Icon created by Hendrik Süberkrüb.
 
 ## Licensing
 
